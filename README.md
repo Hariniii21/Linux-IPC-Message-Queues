@@ -84,12 +84,10 @@ int main()
 
 ## OUTPUT:
 #### Writer process
-![Screenshot 2024-10-17 083005](https://github.com/user-attachments/assets/12a95625-5e34-4349-854d-4c87c8e583e2)
-
+<img width="501" height="108" alt="Screenshot at 2025-11-17 12-26-43" src="https://github.com/user-attachments/assets/cbbcd65e-0d84-4eb4-8661-31aca9a29d6d" />
 
 #### Reader process
-![Screenshot 2024-10-17 083038](https://github.com/user-attachments/assets/f1512098-955e-4a94-96b7-228bbc62eb25)
-
+<img width="595" height="80" alt="msgq" src="https://github.com/user-attachments/assets/fb66cc31-79ce-4d5e-aa1e-e9cac0567a41" />
 
 ## RESULT:
 Thus,the programs are executed successfully.
